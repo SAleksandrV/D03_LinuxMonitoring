@@ -18,7 +18,7 @@ Linux basic bash scripting and system research.
 
 ## Chapter I
 
-![linux_monitoring_v1](misc/images/linux_monitoring_v1.png)
+![linux_monitoring_v1](images/linux_monitoring_v1.png)
 
 Планета Земля, США, штат Калифорния, наши дни.
 
